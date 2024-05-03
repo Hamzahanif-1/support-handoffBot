@@ -1,16 +1,12 @@
-# support-handoffBot
-internal tool used by Support team to maintain handoff standard between shifts
+hey i recently sat this technical exam and 
+for some reason you failed me 
+https://annual-report-ten.vercel.app/
+this is the report on a live panel 
+it looks perfect just how you asked? 
+it even included scalability demonstrated
+by the addition of extra reports.
 
+can you plesse inform me one coder to another 
+on what grounds did you fail me?
 
-- Since Q4 2019/Q1 2020, the Support team reported teamwide (morning + afternoon/evening teams) that this bot and workflow improved 
-handoffs during Earnings
-
-- handoffs: client notes pertaining to a particular client request received by the Support team 
-- Handoffbot: a slack bot with webhook integration and post.message methods that is used by Support team members to maintain
-handoff standards amongst the team 
-
- 
-
-
-
-
+hhnf966@icloud.com
